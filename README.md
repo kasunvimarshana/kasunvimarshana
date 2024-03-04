@@ -96,7 +96,7 @@
         <img src="./icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src=".icons/reactnative/header_logo.svg" alt="reactnative" width="40" height="40"/>
+        <img src="./icons/reactnative/header_logo.svg" alt="reactnative" width="40" height="40"/>
     </a> 
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
         <img src="./icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
@@ -108,7 +108,7 @@
         <img src="./icons/selenium/selenium-logo.svg" alt="selenium" width="40" height="40"/>
     </a> 
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src=".icons/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+        <img src="./icons/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="./icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
